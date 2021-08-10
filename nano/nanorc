@@ -1,0 +1,12 @@
+include "/usr/share/nano/*.nanorc"
+
+set titlecolor bold,black,white
+set numbercolor bold,cyan,black
+set autoindent
+set indicator
+set linenumbers
+set mouse
+set keycolor lightcyan
+set functioncolor lightgreen
+set scrollercolor cyan
+set statuscolor bold,lightwhite,mauve
